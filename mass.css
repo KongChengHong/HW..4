@@ -1,0 +1,14 @@
+.A{
+    width: 0px;height: 0px;
+    border-top: 8em solid green;
+    border-bottom: 8em solid blue;
+    border-right: 8em solid red;
+    border-left: 8em solid yellow;
+}
+.B{
+    float: left;
+    width: 0px;height: 0px;
+    border-top: 8em solid lightblue;
+    border-right: 8em solid rgb(6, 6, 111);
+    border-left: 8em solid blue;
+}
